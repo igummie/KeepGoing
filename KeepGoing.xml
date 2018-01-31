@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>KeepGoing</title>
+    <link>https://github.com/igummie/KeepGoing</link>
+    <description>Example Game</description>
+    <item>
+      <title>1.1</title>
+      <link>https://github.com/igummie/KeepGoing/blob/master/GameBuilds/KeepGoingBeta1.1.rar</link>
+      <description>Added new features.</description>
+    </item>
+    <item>
+      <title>1.0</title>
+      <link>https://github.com/igummie/KeepGoing/blob/master/GameBuilds/KeepGoingBeta1.0.rar</link>
+      <description>Initial release.</description>
+    </item>
+  </channel>
+</rss>
